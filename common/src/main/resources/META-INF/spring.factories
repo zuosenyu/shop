@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.study.shop.config.mybatisplus.MpMetaConfig,\
+  com.study.shop.config.mybatisplus.MpConfig
